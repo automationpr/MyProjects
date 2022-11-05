@@ -1,0 +1,4 @@
+-- Import the project in any java editor
+-- Execute the test cases src/test/jav** com.players.Test
+-- Players.java execute
+-- Test Data Players.json
